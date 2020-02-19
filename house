@@ -1,0 +1,12 @@
+% matplotlib inline
+
+from __future__ import print_function
+
+import copy
+
+import matplotlib
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+
+matplotlib.style.use('ggplot')
